@@ -1025,9 +1025,9 @@
   version "3.2.47"
   resolved "https://registry.npmjs.org/@vue/shared/-/shared-3.2.47.tgz"
 
-"@vue/test-utils@^2.2.6":
-  version "2.2.9"
-  resolved "https://registry.npmjs.org/@vue/test-utils/-/test-utils-2.2.9.tgz"
+"@vue/test-utils@^2.2.10":
+  version "2.2.10"
+  resolved "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-2.2.10.tgz#d2a5e00c973c68818352aa01513dc6288d96d716"
   dependencies:
     js-beautify "1.14.6"
   optionalDependencies:
